@@ -1,0 +1,653 @@
+[
+  
+        {
+            "id": 1,
+            "name": "Floral Summer Dress",
+            "category": "Women",
+            "price": 49.99,
+            "description": "A lightweight, breathable cotton summer dress with a vibrant floral print—perfect for warm days and garden parties.",
+            "imageUrls": [
+                "assets/tshirt/women/1/1.jpg",
+                "assets/tshirt/women/1/2.jpg",
+                "assets/tshirt/women/1/3.jpg",
+                "assets/tshirt/women/1/4.jpg"
+            ],
+            "rating": 4.6,
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "Pink",
+                "White",
+                "Yellow"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Classic Denim Jacket",
+            "category": "Women",
+            "price": 79.50,
+            "description": "Timeless mid-wash denim jacket with button-front closure and dual chest pockets. A wardrobe staple that pairs with everything.",
+            "imageUrls": [
+                "assets/tshirt/women/2/1.jpg",
+                "assets/tshirt/women/2/2.jpg",
+                "assets/tshirt/women/2/3.jpg",
+                "assets/tshirt/women/2/4.jpg"
+            ],
+            "rating": 4.8,
+            "sizes": [
+                "XS",
+                "S",
+                "M",
+                "L"
+            ],
+            "colors": [
+                "Blue",
+                "Black"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Silk Scarf Set",
+            "category": "Women",
+            "price": 29.99,
+            "description": "Set of two 100% silk scarves featuring geometric and floral patterns. Dimensions: 90cm x 90cm. Ideal for gifting.",
+            "imageUrls": [
+                "assets/tshirt/women/3/1.jpg",
+                "assets/tshirt/women/3/2.jpg",
+                "assets/tshirt/women/3/3.jpg",
+                "assets/tshirt/women/3/4.jpg"
+            ],
+            "rating": 4.7,
+            "sizes": [],
+            "colors": [
+                "Red/White",
+                "Blue/Gold"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Men’s Leather Bomber Jacket",
+            "category": "Men",
+            "price": 129.99,
+            "description": "Premium genuine leather bomber jacket with rib-knit cuffs and hem. Warm, durable, and endlessly stylish for cool-weather outings.",
+            "imageUrls": [
+                "assets/tshirt/men/1/1.jpg",
+                "assets/tshirt/men/1/2.jpg",
+                "assets/tshirt/men/1/3.jpg",
+                "assets/tshirt/men/1/4.jpg"
+            ],
+            "rating": 4.5,
+            "sizes": [
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "colors": [
+                "Black",
+                "Brown"
+            ]
+        },
+       {
+            "id": 5,
+            "name": "Oxford Dress Shirt",
+            "category": "Men",
+            "price": 39.99,
+            "description": "Classic slim-fit Oxford shirt made from 100% cotton. Button-down collar, chest pocket, and a range of colors for office or casual wear.",
+            "imageUrls": [
+                "assets/tshirt/men/2/1.jpg",
+                "assets/tshirt/men/2/2.jpg",
+                "assets/tshirt/men/2/3.jpg",
+                "assets/tshirt/men/2/4.jpg"
+            ],
+            "rating": 4.3,
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "colors": [
+                "White",
+                "Light Blue",
+                "Gray"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Men’s Athletic Sneakers",
+            "category": "Men",
+            "price": 59.90,
+            "description": "Lightweight running sneakers with breathable mesh upper and cushioned sole. Designed for daily training and all-day comfort.",
+            "imageUrls": [
+                "assets/tshirt/men/3/1.jpg",
+                "assets/tshirt/men/3/2.jpg",
+                "assets/tshirt/men/3/3.jpg",
+                "assets/tshirt/men/3/4.jpg"
+            ],
+            "rating": 4.4,
+            "sizes": [
+                "8",
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "colors": [
+                "Black/White",
+                "Blue"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Toddler Cotton Romper",
+            "category": "Kid",
+            "price": 24.99,
+            "description": "Soft 100% organic cotton romper with snap closures for easy diaper changes. Adorable striped pattern for toddlers aged 1–3 years.",
+            "imageUrls": [
+                "assets/tshirt/kid/1/1.jpg",
+                "assets/tshirt/kid/1/2.jpg",
+                "assets/tshirt/kid/1/3.jpg",
+                "assets/tshirt/kid/1/4.jpg"
+            ],
+            "rating": 4.2,
+            "sizes": [
+                "12M",
+                "18M",
+                "24M",
+                "36M"
+            ],
+            "colors": [
+                "Navy/White",
+                "Grey/Yellow"
+            ]
+        },
+       {
+            "id": 8,
+            "name": "Kids’ Raincoat",
+            "category": "Kid",
+            "price": 34.50,
+            "description": "Waterproof hooded raincoat with reflective stripes for safety. Fully lined, machine-washable, sizes 4–8 years.",
+            "imageUrls": [
+                "assets/tshirt/kid/2/1.jpg",
+                "assets/tshirt/kid/2/2.jpg",
+                "assets/tshirt/kid/2/3.jpg",
+                "assets/tshirt/kid/2/4.jpg"
+            ],
+            "rating": 4.6,
+            "sizes": [
+                "4Y",
+                "5Y",
+                "6Y",
+                "7Y",
+                "8Y"
+            ],
+            "colors": [
+                "Yellow",
+                "Pink"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Children’s Canvas Sneakers",
+            "category": "Kid",
+            "price": 29.99,
+            "description": "Durable canvas sneakers with non-slip rubber sole. Velcro straps for easy on/off. Fits ages 3–7 years.",
+            "imageUrls": [
+                "assets/tshirt/kid/3/1.jpg",
+                "assets/tshirt/kid/3/2.jpg",
+                "assets/tshirt/kid/3/3.jpg",
+                "assets/tshirt/kid/3/4.jpg"
+            ],
+            "rating": 4.1,
+            "sizes": [
+                "10",
+                "11",
+                "12",
+                "13",
+                "1"
+            ],
+            "colors": [
+                "Red",
+                "Blue",
+                "White"
+            ]
+        },
+    {
+      "id": 10,
+      "name": "Men’s Classic Loafers",
+      "category": "Men",
+      "price": 89.99,
+      "description": "Timeless leather loafers with cushioned insole and slip-on design—perfect for both business and casual wear.",
+      "imageUrls": [
+                "assets/shoes/men/1/1.jpg",
+                "assets/shoes/men/1/2.jpg",
+                "assets/shoes/men/1/3.jpg",
+                "assets/shoes/men/1/4.jpg"
+      ],
+      "rating": 4.4,
+      "sizes": ["7", "8", "9", "10", "11", "12"],
+      "colors": ["Brown", "Black"]
+    },
+    {
+      "id": 11,
+      "name": "Women’s Running Sneakers",
+      "category": "Women",
+      "price": 64.50,
+      "description": "Lightweight women’s running shoes featuring breathable mesh upper and responsive foam midsole for all-day comfort.",
+      "imageUrls": [
+                "assets/shoes/women/1/1.jpg",
+                "assets/shoes/women/1/2.jpg",
+                "assets/shoes/women/1/3.jpg",
+                "assets/shoes/women/1/4.jpg"
+      ],
+      "rating": 4.7,
+      "sizes": ["5", "6", "7", "8", "9", "10"],
+      "colors": ["Pink/White", "Gray/Blue"]
+    },
+    {
+      "id": 12,
+      "name": "Unisex Canvas Slip-Ons",
+      "category": "Men",
+      "price": 35.00,
+      "description": "Casual unisex canvas slip-on shoes with elastic gore for easy entry and durable rubber outsole.",
+      "imageUrls": [
+                "assets/shoes/women/3/1.jpg",
+                "assets/shoes/women/3/2.jpg",
+                "assets/shoes/women/3/3.jpg",
+                "assets/shoes/women/3/4.jpg"
+      ],
+      "rating": 4.2,
+      "sizes": ["6", "7", "8", "9", "10", "11"],
+      "colors": ["Navy", "Black", "Red"]
+    },
+   {
+      "id": 13,
+      "name": "Kids’ High-Top Trainers",
+      "category": "Kid",
+      "price": 42.99,
+      "description": "Sturdy high-top trainers for kids with hook-and-loop straps for a secure fit and non-slip sole.",
+      "imageUrls": [
+                "assets/shoes/kid/1/1.jpg",
+                "assets/shoes/kid/1/2.jpg",
+                "assets/shoes/kid/1/3.jpg",
+                "assets/shoes/kid/1/4.jpg"
+      ],
+      "rating": 4.5,
+      "sizes": ["10", "11", "12", "13", "1", "2"],
+      "colors": ["Black/White", "Blue/Yellow"]
+    },
+   {
+      "id": 14,
+      "name": "Men’s Chelsea Boots",
+      "category": "Men",
+      "price": 120.00,
+      "description": "Sleek leather Chelsea boots with elastic side panels and pull-tab for effortless on/off. A versatile wardrobe staple.",
+      "imageUrls": [
+                "assets/shoes/men/2/1.jpg",
+                "assets/shoes/men/2/2.jpg",
+                "assets/shoes/men/2/3.jpg",
+                "assets/shoes/men/2/4.jpg"
+      ],
+      "rating": 4.6,
+      "sizes": ["8", "9", "10", "11", "12", "13"],
+      "colors": ["Dark Brown", "Black"]
+    },
+   {
+      "id": 15,
+      "name": "Women’s Espadrille Flats",
+      "category": "Shoes",
+      "price": 49.99,
+      "description": "Comfortable espadrille flats with braided jute sole and canvas upper—ideal for summer strolls or beach days.",
+      "imageUrls": [
+                "assets/shoes/women/2/1.jpg",
+                "assets/shoes/women/2/2.jpg",
+                "assets/shoes/women/2/3.jpg",
+                "assets/shoes/women/2/4.jpg"
+      ],
+      "rating": 4.3,
+      "sizes": ["5", "6", "7", "8", "9", "10"],
+      "colors": ["Beige", "Navy"]
+    },
+  {
+      "id": 16,
+      "name": "Trail Running Shoes",
+      "category": "Shoes",
+      "price": 75.00,
+      "description": "All-terrain trail runners with reinforced toe cap and aggressive tread pattern for superior grip on uneven surfaces.",
+      "imageUrls": [
+                "assets/shoes/men/3/1.jpg",
+                "assets/shoes/men/3/2.jpg",
+                "assets/shoes/men/3/3.jpg",
+                "assets/shoes/men/3/4.jpg"
+      ],
+      "rating": 4.8,
+      "sizes": ["7", "8", "9", "10", "11", "12"],
+      "colors": ["Gray/Green", "Black/Orange"]
+    },
+    {
+      "id": 17,
+      "name": "Slip-On Loafer Heels",
+      "category": "Shoes",
+      "price": 59.99,
+      "description": "Chic slip-on loafer-style heels with cushioned footbed and low block heel—perfect for office-to-evening wear.",
+      "imageUrls": [
+                "assets/shoes/kid/3/1.jpg",
+                "assets/shoes/kid/3/2.jpg",
+                "assets/shoes/kid/3/3.jpg",
+                "assets/shoes/kid/3/4.jpg"
+      ],
+      "rating": 4.4,
+      "sizes": ["6", "7", "8", "9", "10"],
+      "colors": ["Black", "Burgundy"]
+    },
+    {
+      "id": 18,
+      "name": "Unisex Waterproof Boots",
+      "category": "Shoes",
+      "price": 99.95,
+      "description": "Durable waterproof boots with seam-sealed construction and rugged sole—ideal for rainy or snowy conditions.",
+      "imageUrls": [
+                "assets/shoes/kid/2/1.jpg",
+                "assets/shoes/kid/2/2.jpg",
+                "assets/shoes/kid/2/3.jpg",
+                "assets/shoes/kid/2/4.jpg"
+      ],
+      "rating": 4.7,
+      "sizes": ["7", "8", "9", "10", "11", "12"],
+      "colors": ["Black", "Brown"]
+    },
+{
+      "id": 19,
+      "name": "Men’s Waterproof Rain Jacket",
+      "category": "Men",
+      "price": 89.99,
+      "description": "Lightweight, fully seam-sealed rain jacket with adjustable hood and zippered pockets—keeps you dry without weighing you down.",
+      "imageUrls": [
+                "assets/jacket/men/1/1.jpg",
+                "assets/jacket/men/1/2.jpg",
+                "assets/jacket/men/1/3.jpg",
+                "assets/jacket/men/1/4.jpg"
+      ],
+      "rating": 4.5,
+      "sizes": ["M", "L", "XL", "XXL"],
+      "colors": ["Navy", "Black", "Olive"]
+    },
+    {
+      "id": 20,
+      "name": "Women’s Faux-Fur Collar Coat",
+      "category": "Women",
+      "price": 129.50,
+      "description": "Elegant wool-blend coat with detachable faux-fur collar, hidden snap closures, and tailored fit—perfect for chilly evenings.",
+      "imageUrls": [
+                "assets/jacket/women/1/1.jpg",
+                "assets/jacket/women/1/2.jpg",
+                "assets/jacket/women/1/3.jpg",
+                "assets/jacket/women/1/4.jpg"
+      ],
+      "rating": 4.7,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Camel", "Gray"]
+    },
+    {
+      "id": 21,
+      "name": "Unisex Puffer Jacket",
+      "category": "Men",
+      "price": 99.99,
+      "description": "Warm, water-resistant puffer jacket filled with recycled insulation, featuring elastic cuffs and a packable design for travel.",
+      "imageUrls": [
+                "assets/jacket/men/2/1.jpg",
+                "assets/jacket/men/2/2.jpg",
+                "assets/jacket/men/2/3.jpg",
+                "assets/jacket/men/2/4.jpg"
+      ],
+      "rating": 4.6,
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "colors": ["Black", "Forest Green", "Burgundy"]
+    },
+   {
+      "id": 22,
+      "name": "Kids’ Hooded Fleece Jacket",
+      "category": "Kid",
+      "price": 39.99,
+      "description": "Soft polyester fleece jacket with hood and front zip—ideal layering piece for active kids in cool weather.",
+      "imageUrls": [
+                "assets/jacket/kid/1/1.jpg",
+                "assets/jacket/kid/1/2.jpg",
+                "assets/jacket/kid/1/3.jpg",
+                "assets/jacket/kid/1/4.jpg"
+      ],
+      "rating": 4.4,
+      "sizes": ["4Y", "5Y", "6Y", "7Y", "8Y"],
+      "colors": ["Blue", "Pink", "Gray"]
+    },
+   {
+      "id": 23,
+      "name": "Leather Moto Jacket",
+      "category": "Men",
+      "price": 199.99,
+      "description": "Genuine leather motorcycle jacket with asymmetrical zipper, quilted panels, and snap-down lapels—for a classic edgy look.",
+      "imageUrls": [
+                "assets/jacket/men/3/1.jpg",
+                "assets/jacket/men/3/2.jpg",
+                "assets/jacket/men/3/3.jpg",
+                "assets/jacket/men/3/4.jpg"
+      ],
+      "rating": 4.8,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black"]
+    },
+    {
+      "id": 24,
+      "name": "Women’s Denim Trucker Jacket",
+      "category": "Women",
+      "price": 59.95,
+      "description": "Classic denim trucker jacket with button-front, two chest pockets, and slight stretch for all-day comfort.",
+      "imageUrls": [
+                "assets/jacket/women/2/1.jpg",
+                "assets/jacket/women/2/2.jpg",
+                "assets/jacket/women/2/3.jpg",
+                "assets/jacket/women/2/4.jpg"
+      ],
+      "rating": 4.3,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["Light Blue", "Dark Indigo"]
+    },
+    {
+      "id": 25,
+      "name": "Men’s Softshell Hiking Jacket",
+      "category": "Men",
+      "price": 79.99,
+      "description": "Breathable softshell jacket with water-repellent finish, adjustable hem, and zippered chest pocket—great for outdoor adventures.",
+      "imageUrls": [
+                "assets/jacket/men/2/4.jpg",
+                "assets/jacket/men/2/3.jpg",
+                "assets/jacket/men/2/2.jpg",
+                "assets/jacket/men/2/1.jpg"
+      ],
+      "rating": 4.6,
+      "sizes": ["M", "L", "XL", "XXL"],
+      "colors": ["Charcoal", "Navy"]
+    },
+  {
+      "id": 26,
+      "name": "Kids’ Lightweight Windbreaker",
+      "category": "Kid",
+      "price": 29.50,
+      "description": "Colorful kids’ windbreaker with full-zip front and elastic cuffs. Folds into its own pocket for easy packing.",
+      "imageUrls": [
+                "assets/jacket/kid/2/1.jpg",
+                "assets/jacket/kid/2/2.jpg",
+                "assets/jacket/kid/2/3.jpg",
+                "assets/jacket/kid/2/4.jpg"
+      ],
+      "rating": 4.2,
+      "sizes": ["4T", "5T", "6T", "7T"],
+      "colors": ["Yellow", "Green", "Blue"]
+    },
+    {
+      "id": 27,
+      "name": "Women’s Quilted Bomber Jacket",
+      "category": "Women",
+      "price": 69.90,
+      "description": "Lightweight quilted bomber with ribbed cuffs, collar, and hem. Smooth lining and zip-front closure for daily wear.",
+      "imageUrls": [
+                "assets/jacket/women/3/1.jpg",
+                "assets/jacket/women/3/2.jpg",
+                "assets/jacket/women/3/3.jpg",
+                "assets/jacket/women/3/4.jpg"
+      ],
+      "rating": 4.5,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Olive", "Rose"]
+    },
+    {
+      "id": 28,
+      "name": "Men’s Chino Pants",
+      "category": "Men",
+      "price": 49.99,
+      "description": "Slim-fit cotton chinos with stretch for comfort. Features side and back welt pockets, perfect for office or casual wear.",
+      "imageUrls": [
+                "assets/pant/men/1/1.jpg",
+                "assets/pant/men/1/2.jpg",
+                "assets/pant/men/1/3.jpg",
+                "assets/pant/men/1/4.jpg"
+      ],
+      "rating": 4.4,
+      "sizes": ["30", "32", "34", "36", "38"],
+      "colors": ["Khaki", "Navy", "Charcoal"]
+    },
+    {
+      "id": 29,
+      "name": "Men’s Jogger Sweatpants",
+      "category": "Men",
+      "price": 39.50,
+      "description": "Soft fleece joggers with elastic waistband and cuffs. Zippered side pockets and drawstring for a secure fit—ideal for lounging or workouts.",
+      "imageUrls": [
+                "assets/pant/men/2/1.jpg",
+                "assets/pant/men/2/2.jpg",
+                "assets/pant/men/2/3.jpg",
+                "assets/pant/men/2/4.jpg"
+      ],
+      "rating": 4.6,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Black", "Gray", "Olive"]
+    },
+    {
+      "id": 30,
+      "name": "Men’s Denim Jeans",
+      "category": "Men",
+      "price": 59.99,
+      "description": "Straight-leg dark wash denim jeans with five-pocket styling and slight stretch. Durable construction for everyday wear.",
+      "imageUrls": [
+                "assets/pant/men/3/1.jpg",
+                "assets/pant/men/3/2.jpg",
+                "assets/pant/men/3/3.jpg",
+                "assets/pant/men/3/4.jpg"
+      ],
+      "rating": 4.5,
+      "sizes": ["30", "32", "34", "36", "38", "40"],
+      "colors": ["Dark Blue", "Medium Blue"]
+    },
+   {
+      "id": 31,
+      "name": "Women’s High-Waist Leggings",
+      "category": "Women",
+      "price": 29.99,
+      "description": "Comfort-stretch high-waist leggings with moisture-wicking fabric. Perfect for yoga, workouts, or casual styling with tunics.",
+      "imageUrls": [
+                "assets/pant/women/1/1.jpg",
+                "assets/pant/women/1/2.jpg",
+                "assets/pant/women/1/3.jpg",
+                "assets/pant/women/1/4.jpg"
+      ],
+      "rating": 4.7,
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["Black", "Heather Gray"]
+    },
+    {
+      "id": 32,
+      "name": "Women’s Wide-Leg Trousers",
+      "category": "Women",
+      "price": 54.50,
+      "description": "Elegant high-rise wide-leg trousers in a lightweight crepe fabric. Features front pleats, side pockets, and hidden hook closure.",
+      "imageUrls": [
+                "assets/pant/women/2/1.jpg",
+                "assets/pant/women/2/2.jpg",
+                "assets/pant/women/2/3.jpg",
+                "assets/pant/women/2/4.jpg"
+      ],
+      "rating": 4.4,
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["Black", "Beige"]
+    },
+     {
+      "id": 33,
+      "name": "Women’s Cargo Joggers",
+      "category": "Women",
+      "price": 44.99,
+      "description": "Casual cargo joggers with utility pockets, elasticated ankle cuffs, and drawstring waist. Made from soft, durable cotton blend.",
+      "imageUrls": [
+                "assets/pant/women/3/1.jpg",
+                "assets/pant/women/3/2.jpg",
+                "assets/pant/women/3/3.jpg",
+                "assets/pant/women/3/4.jpg"
+      ],
+      "rating": 4.5,
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["Olive", "Stone"]
+    },
+    {
+      "id": 34,
+      "name": "Kid’s Skinny Denim Jeans",
+      "category": "Kid",
+      "price": 34.99,
+      "description": "Skinny fit denim jeans for kids, with adjustable waistband and five-pocket styling. Stretchy and comfortable for playtime.",
+      "imageUrls": [
+                "assets/pant/kid/1/1.jpg",
+                "assets/pant/kid/1/2.jpg",
+                "assets/pant/kid/1/3.jpg",
+                "assets/pant/kid/1/4.jpg"
+      ],
+      "rating": 4.3,
+      "sizes": ["4Y", "5Y", "6Y", "7Y", "8Y"],
+      "colors": ["Blue Wash", "Black Wash"]
+    },
+    {
+      "id": 35,
+      "name": "Kid’s Jogger Pants",
+      "category": "Kid",
+      "price": 24.50,
+      "description": "Soft cotton joggers for kids with elastic waistband and ankle cuffs. Features side pockets and fun color-block design.",
+      "imageUrls": [
+                "assets/pant/kid/2/1.jpg",
+                "assets/pant/kid/2/2.jpg",
+                "assets/pant/kid/2/3.jpg",
+                "assets/pant/kid/2/4.jpg"
+      ],
+      "rating": 4.2,
+      "sizes": ["4T", "5T", "6T", "7T"],
+      "colors": ["Navy/Gray", "Red/Black"]
+    },
+    {
+      "id": 36,
+      "name": "Kid’s Tech Track Pants",
+      "category": "Kid",
+      "price": 29.99,
+      "description": "Lightweight track pants with moisture-wicking fabric and reflective stripes. Elastic waist and zipped ankles for easy wear.",
+      "imageUrls": [
+                "assets/pant/kid/3/1.jpg",
+                "assets/pant/kid/3/2.jpg",
+                "assets/pant/kid/3/3.jpg",
+                "assets/pant/kid/3/4.jpg"
+      ],
+      "rating": 4.6,
+      "sizes": ["6Y", "7Y", "8Y", "9Y"],
+      "colors": ["Black/White", "Gray/Green"]
+    }
+    
+  ]
